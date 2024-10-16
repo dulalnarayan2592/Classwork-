@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Reservation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C49B297414684B3C8AF38B58E1FEC3A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14D568A8DE294EB1A747D41F0D323EA3 }}
